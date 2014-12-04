@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>ProyectoBase</groupId>
   <artifactId>ProyectoBase</artifactId>
-  <version>0.0.1</version>
+  <version>0.0.12345</version>
   <packaging>war</packaging>
   <build>
     <sourceDirectory>src</sourceDirectory>
